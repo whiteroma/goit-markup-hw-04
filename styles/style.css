@@ -100,12 +100,12 @@ a:hover {
     box-shadow: none;
 }
 
-/* a:focus {
+a:focus {
     color: #2196f3;
     background-color: transparent;
     border: none;
     box-shadow: none;
-} */
+}
 
 a:active {
     color: #2196f3;
